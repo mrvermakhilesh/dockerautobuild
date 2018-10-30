@@ -1,4 +1,3 @@
-MAINTAINER Akhilesh
 FROM java
 COPY HelloWorld.java .
 RUN javac HelloWorld.java
